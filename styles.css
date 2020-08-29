@@ -140,7 +140,7 @@ body{
     letter-spacing: var(--letter-spacing);
     color: var(--primary-color);
     font-family: var(--secondary-text);
-    animation: slideFromRight 4s ease-in-out 1;
+    animation: slideFromRight 3s ease-out 1;
     
 }
 
@@ -151,7 +151,7 @@ body{
     font-size: 2rem;
     line-height: 1.3;
     /* animation */
-    animation: slideFromLeft 4s ease-in-out 1;
+    animation: slideFromLeft 3s ease-out 1;
 
 }
 
